@@ -1,4 +1,4 @@
 class Constants {
   static const BaseImagePath = 'assets/images/';
-  static const GoogleApiKey = 'AIzaSyCO3tYqKpzvZKcBk8aLRdUMKGjYB0Uew_s';
+  static const GoogleApiKey = 'AIzaSyAugaKW2M-hTCTd_cPH-MZBLgIrroJ26XQ';
 }
